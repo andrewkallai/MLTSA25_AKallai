@@ -1,4 +1,4 @@
-# HW2
+# HW 2
 # Fitting a Line to GRB Afterglow Photometry
 
 ### Contributions
